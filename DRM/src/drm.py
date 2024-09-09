@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Set up the OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'TBD'
 
 # Function to remove .txt files from a directory
 def clean_directory(directory):
@@ -132,7 +132,7 @@ def process_files():
 def send_email(to_email, subject, body):
     sender_email = "genaihospital@gmail.com"
     #password = os.getenv('EMAIL_PASSWORD')  # Use environment variable for security
-    password = "tuoa hjol xjtc mwdu"  # Add your email password here
+    password = "TBD"  # Add your email password here
 
     # Setup the MIME
     msg = MIMEMultipart()
