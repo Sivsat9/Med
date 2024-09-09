@@ -1,0 +1,19 @@
+Patient Name: Peter Sam
+1. Based on the medical history of patient Peter Sam, what lifestyle modifications (exercise and diet) can be recommended to reduce the risk of developing diabetes?
+2. If exercise and diet can help manage blood sugar levels for patient Peter Sam, please provide specific recommendations, including:
+    * Type of exercise: What forms of physical activity are most beneficial for improving insulin sensitivity?
+    * Duration and frequency: How long and how often should patient Peter Sam engage in these exercises?
+    * Dietary recommendations: What foods with a low glycemic index (GI) are recommended for maintaining healthy blood sugar levels?
+        * For dietary support, can you provide three YouTube static link in the format: 'https://www.youtube.com/results?search_query=<search keywords>+Telugu' for diabetic-friendly recipes with a focus on maintaining a low glycemic index?
+3. Does patient Peter Sam require any of the following interventions to manage blood sugar levels:
+    * HbA1c Testing: Would regular A1c monitoring be necessary for patient Peter Sam based on current risk factors?
+    * Medications: Is there a need for oral hypoglycemic tablets to control blood sugar levels?
+    * GLP-1 Agonists: Would patient Peter Sam benefit from GLP-1 receptor agonists to manage blood sugar levels and aid in weight management?
+    * Insulin Therapy: Is insulin therapy required at this stage, or can patient Peter Sam continue with non-insulin interventions?
+
+Patient’s AGE: 72
+BMI: 23
+HBA1C: 7.2
+Fasting Sugar: 135
+Heredity Info: No
+Let the responses be as if Dr.GenAI to to Peter Sam

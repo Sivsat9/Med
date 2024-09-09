@@ -1,0 +1,19 @@
+Patient Name: Jack Gary
+1. Based on the medical history of patient Jack Gary, what lifestyle modifications (exercise and diet) can be recommended to reduce the risk of developing diabetes?
+2. If exercise and diet can help manage blood sugar levels for patient Jack Gary, please provide specific recommendations, including:
+    * Type of exercise: What forms of physical activity are most beneficial for improving insulin sensitivity?
+    * Duration and frequency: How long and how often should patient Jack Gary engage in these exercises?
+    * Dietary recommendations: What foods with a low glycemic index (GI) are recommended for maintaining healthy blood sugar levels?
+        * For dietary support, can you provide three YouTube static link in the format: 'https://www.youtube.com/results?search_query=<search keywords>+English' for diabetic-friendly recipes with a focus on maintaining a low glycemic index?
+3. Does patient Jack Gary require any of the following interventions to manage blood sugar levels:
+    * HbA1c Testing: Would regular A1c monitoring be necessary for patient Jack Gary based on current risk factors?
+    * Medications: Is there a need for oral hypoglycemic tablets to control blood sugar levels?
+    * GLP-1 Agonists: Would patient Jack Gary benefit from GLP-1 receptor agonists to manage blood sugar levels and aid in weight management?
+    * Insulin Therapy: Is insulin therapy required at this stage, or can patient Jack Gary continue with non-insulin interventions?
+
+Patient’s AGE: 23
+BMI: 19
+HBA1C: 5.8
+Fasting Sugar: 87
+Heredity Info: No
+Let the responses be as if Dr.GenAI to to Jack Gary
